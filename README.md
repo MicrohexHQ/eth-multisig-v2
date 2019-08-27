@@ -1,4 +1,4 @@
-# Ethereum MultiSig Wallet Contract
+# Ethereum MultiSig Wallet Contract 
 
 ## About
 
